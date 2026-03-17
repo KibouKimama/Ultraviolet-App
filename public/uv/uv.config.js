@@ -2,7 +2,7 @@
 
 self.__uv$config = {
 	prefix: "/uv/service/",
-	bare: 'https://〇〇.workers.dev/bare/',
+	bare: 'https://odd-hall-1477.kiboukimama.workers.dev/bare/',
 	encodeUrl: Ultraviolet.codec.xor.encode,
 	decodeUrl: Ultraviolet.codec.xor.decode,
 	handler: "/uv/uv.handler.js",
