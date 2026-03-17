@@ -2,7 +2,7 @@
 
 self.__uv$config = {
 	prefix: "/service/",
-	bare: "https://odd-hall-1477.kiboukimama.workers.dev/bare/",
+	bare: "https://tomphttp-bare-server.onrender.com/bare/",
 	encodeUrl: Ultraviolet.codec.xor.encode,
 	decodeUrl: Ultraviolet.codec.xor.decode,
 	handler: "/uv/uv.handler.js",
